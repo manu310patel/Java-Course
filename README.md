@@ -1,1 +1,1 @@
-# Java-Course
+Java -> in28Minutes
